@@ -1,0 +1,53 @@
+.section{
+	padding-top: 100px;
+}
+.header{
+	text-align: center;
+	font-size: 24px;
+	line-height: 1.4;
+	margin-bottom: 86px;
+}
+h1 span{
+	display: block;
+}
+.form-header,.section-header{
+	margin-bottom: 30px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	color: #000;
+}
+.form-btn{
+	margin-top: 10px;
+	padding: 20px 30px;
+	border-radius: 0;
+}
+.form-input{
+	margin-top: 10px;
+	border-radius: 0;
+}
+.form{
+	padding: 35px 25px;
+	border: 5px solid #2727d9;
+}
+.description{
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+}
+.feat-boxs{
+	padding: 45px 0 85px 0;
+}
+.video{
+	margin-bottom: 30px;
+}
+.feature-box{
+	height: 220px;
+}
+.row-people{
+	margin-top: 20px;
+}
+.cont-people{
+	margin-bottom: 60px;
+}
